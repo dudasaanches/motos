@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    .meio, .motos{
+        display: block;
+    }
+}
+@media (max-width: 376px) {
+    .formulario input{
+        width: 260px;
+    }
+    .formulario{
+        padding: 20px;
+    }
+    .meio{
+        align-items: center;
+    }
+}
